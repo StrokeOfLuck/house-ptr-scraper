@@ -3477,6 +3477,17 @@
     <DocID>30027604</DocID>
   </Member>
   <Member>
+    <Prefix>Ms.</Prefix>
+    <Last>Cook</Last>
+    <First>Patricia Paige</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/13/2026</FilingDate>
+    <DocID>10082838</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Cook</Last>
     <First>Thomas Joseph</First>
@@ -3959,6 +3970,17 @@
     <Year>2026</Year>
     <FilingDate>4/28/2026</FilingDate>
     <DocID>30026970</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Davis</Last>
+    <First>Mark</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL16</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/11/2026</FilingDate>
+    <DocID>10082830</DocID>
   </Member>
   <Member>
     <Prefix>Dr.</Prefix>
@@ -8229,6 +8251,17 @@
     <DocID>10074528</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Jackley</Last>
+    <First>Marty</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>SD00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/13/2026</FilingDate>
+    <DocID>10082837</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Jackson</Last>
     <First>DeVelle LaVaughn</First>
@@ -8975,6 +9008,17 @@
     <Year>2026</Year>
     <FilingDate>8/18/2026</FilingDate>
     <DocID>20035273</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kean</Last>
+    <First>Thomas H.</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>NJ07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/12/2026</FilingDate>
+    <DocID>20035431</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -10482,6 +10526,17 @@
     <Year>2026</Year>
     <FilingDate>5/15/2026</FilingDate>
     <DocID>30027669</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Malik</Last>
+    <First>Ahsen Mujeeb</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/12/2026</FilingDate>
+    <DocID>10081702</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14356,6 +14411,28 @@
     <DocID>10079830</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rose</Last>
+    <First>John W.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/12/2026</FilingDate>
+    <DocID>20035444</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rose</Last>
+    <First>John W.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/12/2026</FilingDate>
+    <DocID>20035445</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Rourk</Last>
     <First>Caitlin McClay</First>
@@ -15179,6 +15256,17 @@
     <Year>2026</Year>
     <FilingDate />
     <DocID>9115797</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Simmons</Last>
+    <First>Deva</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL18</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/11/2026</FilingDate>
+    <DocID>10082836</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -17676,6 +17764,17 @@
     <Year>2026</Year>
     <FilingDate>5/17/2026</FilingDate>
     <DocID>10077983</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Workman</Last>
+    <First>Daniel Verl</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WY00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/11/2026</FilingDate>
+    <DocID>10082831</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
