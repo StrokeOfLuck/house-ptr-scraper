@@ -62,8 +62,8 @@
       "Matched": 393,
       "Missing": 0,
       "Extra": 0,
-      "Parser flagged": 45,
-      "Not yet parsed": 2,
+      "Parser flagged": 46,
+      "Not yet parsed": 0,
       "Complete": true
     }
   ],
@@ -72,8 +72,8 @@
     "pdfs_in_drive": 3123,
     "missing": 0,
     "extra": 0,
-    "parser_flagged": 474,
-    "not_yet_parsed": 2,
+    "parser_flagged": 475,
+    "not_yet_parsed": 0,
     "all_years_complete": true
   }
 }
