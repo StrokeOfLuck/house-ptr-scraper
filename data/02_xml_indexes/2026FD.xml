@@ -3720,6 +3720,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Cox</Last>
+    <First>Drew</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082895</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Cranmer</Last>
     <First>Andrew Ira</First>
     <Suffix />
@@ -4212,6 +4223,17 @@
     <Year>2026</Year>
     <FilingDate>5/15/2026</FilingDate>
     <DocID>10077408</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mrs.</Prefix>
+    <Last>Delancy</Last>
+    <First>Pamela</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082899</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -5952,6 +5974,17 @@
     <DocID>20034050</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Franklin</Last>
+    <First>Scott Scott</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL18</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>20035450</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Frankman</Last>
     <First>John</First>
@@ -7534,6 +7567,17 @@
     <Year>2026</Year>
     <FilingDate>9/15/2026</FilingDate>
     <DocID>10082718</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Hathaway</Last>
+    <First>Joe</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10078583</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -9869,6 +9913,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Lambert</Last>
+    <First>Brian Keith</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082886</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Lamondin</Last>
     <First>Richard</First>
     <Suffix />
@@ -10328,6 +10383,17 @@
     <Year>2026</Year>
     <FilingDate>6/23/2026</FilingDate>
     <DocID>10081133</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Linardon</Last>
+    <First>Kelechi</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>MA07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/16/2026</FilingDate>
+    <DocID>9116335</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15216,6 +15282,17 @@
   <Member>
     <Prefix />
     <Last>Sell</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082891</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Sell</Last>
     <First>Tom</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -15322,6 +15399,17 @@
     <Year>2026</Year>
     <FilingDate>4/21/2026</FilingDate>
     <DocID>20034384</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Seymour</Last>
+    <First>Suzanne</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VT00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082729</DocID>
   </Member>
   <Member>
     <Prefix>Dr.</Prefix>
@@ -16490,6 +16578,17 @@
     <DocID>20035392</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>20035471</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Taylor</Last>
     <First>Horace</First>
@@ -16985,6 +17084,17 @@
     <DocID>10074579</DocID>
   </Member>
   <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Udell</Last>
+    <First>Kent</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>UT03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082892</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Ufford</Last>
     <First>Don</First>
@@ -17456,6 +17566,17 @@
     <Year>2026</Year>
     <FilingDate>8/27/2026</FilingDate>
     <DocID>10082743</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Walters</Last>
+    <First>Rasheed Nicholas</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>MA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/2/2026</FilingDate>
+    <DocID>9116334</DocID>
   </Member>
   <Member>
     <Prefix />

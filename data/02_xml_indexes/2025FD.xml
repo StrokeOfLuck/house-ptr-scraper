@@ -6382,6 +6382,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Cox</Last>
+    <First>Drew</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10082883</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Crabtree</Last>
     <First>Casey</First>
     <Suffix />
@@ -24870,6 +24881,17 @@
     <Year>2025</Year>
     <FilingDate>2/6/2026</FilingDate>
     <DocID>8221333</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Reynolds</Last>
+    <First>Lowell Andre</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/17/2026</FilingDate>
+    <DocID>10069042</DocID>
   </Member>
   <Member>
     <Prefix />
