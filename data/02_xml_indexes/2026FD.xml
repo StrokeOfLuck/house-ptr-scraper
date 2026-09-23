@@ -232,6 +232,17 @@
     <DocID>20035260</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Allen</Last>
+    <First>Richard W.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>GA12</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/22/2026</FilingDate>
+    <DocID>20035492</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Alponte</Last>
     <First>Monica Maria</First>
@@ -1627,6 +1638,17 @@
     <Year>2026</Year>
     <FilingDate>7/27/2026</FilingDate>
     <DocID>20035007</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Biggs</Last>
+    <First>Sheri</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/22/2026</FilingDate>
+    <DocID>20035489</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -4641,6 +4663,17 @@
     <Year>2026</Year>
     <FilingDate>4/2/2026</FilingDate>
     <DocID>10074588</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Dewell</Last>
+    <First>Ben</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>CA20</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/22/2026</FilingDate>
+    <DocID>40004925</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15566,6 +15599,17 @@
     <DocID>20035480</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Sessions</Last>
+    <First>Pete</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/22/2026</FilingDate>
+    <DocID>20035499</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Sessler</Last>
     <First>Jerrod</First>
@@ -15938,6 +15982,17 @@
     <Year>2026</Year>
     <FilingDate>7/27/2026</FilingDate>
     <DocID>20035067</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Smith</Last>
+    <First>Bradley</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WI06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/22/2026</FilingDate>
+    <DocID>10082926</DocID>
   </Member>
   <Member>
     <Prefix />
