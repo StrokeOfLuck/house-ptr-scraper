@@ -2744,6 +2744,17 @@
     <Last>Boebert</Last>
     <First>Lauren</First>
     <Suffix />
+    <FilingType>O</FilingType>
+    <StateDst>CO03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/24/2026</FilingDate>
+    <DocID>10078175</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Boebert</Last>
+    <First>Lauren</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CO03</StateDst>
     <Year>2025</Year>
@@ -24386,6 +24397,17 @@
     <Year>2025</Year>
     <FilingDate>9/11/2025</FilingDate>
     <DocID>10072420</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Rable</Last>
+    <First>Kyle</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX19</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/24/2026</FilingDate>
+    <DocID>10082935</DocID>
   </Member>
   <Member>
     <Prefix />
