@@ -6997,6 +6997,17 @@
     <DocID>9116208</DocID>
   </Member>
   <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Green</Last>
+    <First>Terri Yarbrough</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AR01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/26/2026</FilingDate>
+    <DocID>10082850</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Greene</Last>
     <First>Clifford Mark</First>
@@ -7647,6 +7658,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Harvey</Last>
+    <First>Cooke Costa</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/25/2026</FilingDate>
+    <DocID>9116345</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Harvie</Last>
     <First>Robert J.</First>
     <Suffix>Jr.</Suffix>
@@ -7996,6 +8018,28 @@
     <Year>2026</Year>
     <FilingDate>9/1/2026</FilingDate>
     <DocID>20035326</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/25/2026</FilingDate>
+    <DocID>20035491</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Herrera</Last>
+    <First>Brandon</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX23</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/25/2026</FilingDate>
+    <DocID>10082835</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -10441,6 +10485,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Lehmacher</Last>
+    <First>Eunice</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/27/2026</FilingDate>
+    <DocID>10082929</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Leigh</Last>
     <First>Danica David</First>
     <Suffix />
@@ -12189,6 +12244,17 @@
     <DocID>20035075</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Miller</Last>
+    <First>Max</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/27/2026</FilingDate>
+    <DocID>20035528</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Milleron</Last>
     <First>Nadia D.</First>
@@ -13298,6 +13364,28 @@
     <Year>2026</Year>
     <FilingDate />
     <DocID>9115849</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ojeda</Last>
+    <First>Richard N.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NC09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/16/2026</FilingDate>
+    <DocID>9116341</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Okpareke</Last>
+    <First>Ndidiamaka</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NM01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/27/2026</FilingDate>
+    <DocID>10082963</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14939,6 +15027,17 @@
     <DocID>9116311</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rogers</Last>
+    <First>Harold Dallas</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>KY05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/23/2026</FilingDate>
+    <DocID>9116342</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Roland</Last>
     <First>Edward John</First>
@@ -16103,6 +16202,17 @@
     <Year>2026</Year>
     <FilingDate>5/15/2026</FilingDate>
     <DocID>30027890</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Smith</Last>
+    <First>Robert Jeffrey</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA24</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/25/2026</FilingDate>
+    <DocID>10082950</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -18413,6 +18523,17 @@
     <Year>2026</Year>
     <FilingDate>5/1/2026</FilingDate>
     <DocID>9115844</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wittrock</Last>
+    <First>Quentin</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116346</DocID>
   </Member>
   <Member>
     <Prefix />
