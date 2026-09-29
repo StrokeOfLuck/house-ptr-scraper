@@ -5931,6 +5931,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Foreman</Last>
+    <First>Eric Michael</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>NE02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/28/2026</FilingDate>
+    <DocID>40005024</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Forgie</Last>
     <First>Adam Robert</First>
     <Suffix />
@@ -10488,6 +10499,17 @@
     <Last>Lehmacher</Last>
     <First>Eunice</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/28/2026</FilingDate>
+    <DocID>10082983</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lehmacher</Last>
+    <First>Eunice</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>SC03</StateDst>
     <Year>2026</Year>
@@ -12134,6 +12156,17 @@
     <DocID>20034774</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Meyer</Last>
+    <First>Bradley Allen</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/28/2026</FilingDate>
+    <DocID>10082976</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Meyers</Last>
     <First>Scott Alan</First>
@@ -12341,6 +12374,17 @@
     <Year>2026</Year>
     <FilingDate>4/20/2026</FilingDate>
     <DocID>8074</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mitchell</Last>
+    <First>Joe</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/18/2026</FilingDate>
+    <DocID>9116349</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18149,6 +18193,17 @@
     <Year>2026</Year>
     <FilingDate>2/18/2026</FilingDate>
     <DocID>40004902</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wein</Last>
+    <First>Mikel</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>KY05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/10/2026</FilingDate>
+    <DocID>9116348</DocID>
   </Member>
   <Member>
     <Prefix />
