@@ -5887,6 +5887,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Flowers</Last>
+    <First>Bernard</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/29/2026</FilingDate>
+    <DocID>10082989</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Follmer</Last>
     <First>Adam</First>
     <Suffix />
@@ -7490,6 +7501,17 @@
     <Year>2026</Year>
     <FilingDate>5/14/2026</FilingDate>
     <DocID>10078232</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Harden</Last>
+    <First>Christopher Matthew</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/29/2026</FilingDate>
+    <DocID>10082990</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -16142,6 +16164,17 @@
     <Last>Singh</Last>
     <First>Sujit</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>NJ12</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/29/2026</FilingDate>
+    <DocID>10081183</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Singh</Last>
+    <First>Sujit</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>NJ12</StateDst>
     <Year>2026</Year>
@@ -17148,6 +17181,17 @@
     <Year>2026</Year>
     <FilingDate>5/13/2026</FilingDate>
     <DocID>30027497</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Tedford</Last>
+    <First>Mark</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/29/2026</FilingDate>
+    <DocID>10082984</DocID>
   </Member>
   <Member>
     <Prefix />
