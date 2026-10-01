@@ -18768,6 +18768,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Matthewson</Last>
+    <First>Roy</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>CO05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>40005028</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Mawhiney</Last>
     <First>Billy</First>
     <Suffix />
@@ -26039,6 +26050,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Ryerse</Last>
+    <First>Robb</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AR03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10083003</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Sabio</Last>
     <First>Tony</First>
     <Suffix />
@@ -29259,6 +29281,28 @@
     <Year>2025</Year>
     <FilingDate>5/7/2026</FilingDate>
     <DocID>30027406</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Thompson</Last>
+    <First>Kelly Elizabeth</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>IN03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10082998</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Thompson</Last>
+    <First>Kelly Elizabeth</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10082937</DocID>
   </Member>
   <Member>
     <Prefix />

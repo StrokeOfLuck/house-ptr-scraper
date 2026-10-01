@@ -871,6 +871,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Ballay</Last>
+    <First>Lisa</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>LA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>40005026</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Balow</Last>
     <First>Jillian</First>
     <Suffix />
@@ -3225,6 +3236,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Codiga</Last>
+    <First>John Jack</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NC12</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10082945</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Cognetti</Last>
     <First>Paige</First>
     <Suffix />
@@ -4498,6 +4520,17 @@
     <Year>2026</Year>
     <FilingDate>9/14/2026</FilingDate>
     <DocID>20035400</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>20035498</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7875,6 +7908,17 @@
     <Year>2026</Year>
     <FilingDate>4/29/2026</FilingDate>
     <DocID>30027060</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Hennessy</Last>
+    <First>Samuel Frank</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10082724</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12002,6 +12046,17 @@
     <DocID>10081218</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Meidinger Hosey</Last>
+    <First>Deborah Ann</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL26</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>10082808</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Mejia</Last>
     <First>Analilia</First>
@@ -15347,6 +15402,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Ryerse</Last>
+    <First>Robb</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AR03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10082943</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Sabat</Last>
     <First>Ramez Elias</First>
     <Suffix />
@@ -17269,6 +17335,17 @@
     <Year>2026</Year>
     <FilingDate>6/9/2026</FilingDate>
     <DocID>30028212</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Thompson</Last>
+    <First>Kelly Elizabeth</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/30/2026</FilingDate>
+    <DocID>10082997</DocID>
   </Member>
   <Member>
     <Prefix />
