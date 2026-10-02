@@ -1541,6 +1541,17 @@
     <DocID>20035349</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Beyer</Last>
+    <First>Donald Sternoff</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>20035555</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Bhatti</Last>
     <First>Ata-Ul-Salaam</First>
@@ -5785,6 +5796,17 @@
     <Year>2026</Year>
     <FilingDate>9/2/2026</FilingDate>
     <DocID>20035345</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>20035464</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11420,6 +11442,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Matthewson</Last>
+    <First>Roy</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>CO05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>40005029</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Mawhiney</Last>
     <First>Billy</First>
     <Suffix />
@@ -16347,6 +16380,17 @@
     <DocID>30027890</DocID>
   </Member>
   <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Smith</Last>
+    <First>Raymond Edward</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>NC03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>10082893</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Smith</Last>
     <First>Robert Jeffrey</First>
@@ -17181,6 +17225,17 @@
     <Year>2026</Year>
     <FilingDate>9/17/2026</FilingDate>
     <DocID>20035471</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>20035549</DocID>
   </Member>
   <Member>
     <Prefix />
