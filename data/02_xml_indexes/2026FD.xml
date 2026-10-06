@@ -2269,6 +2269,17 @@
   <Member>
     <Prefix />
     <Last>Brown</Last>
+    <First>Te</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/5/2026</FilingDate>
+    <DocID>10083022</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Brown</Last>
     <First>Theodis</First>
     <Suffix>Sr.</Suffix>
     <FilingType>D</FilingType>
@@ -2782,6 +2793,17 @@
     <Year>2026</Year>
     <FilingDate>4/14/2026</FilingDate>
     <DocID>10075645</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cavanaugh</Last>
+    <First>Matthew</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116354</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -5028,6 +5050,17 @@
     <DocID>20035401</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Doggett</Last>
+    <First>Lloyd</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX37</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/5/2026</FilingDate>
+    <DocID>20035580</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Dolan</Last>
     <First>Martin William</First>
@@ -5983,6 +6016,17 @@
     <Year>2026</Year>
     <FilingDate>4/28/2026</FilingDate>
     <DocID>9115798</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Fong</Last>
+    <First>Vince</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA20</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/5/2026</FilingDate>
+    <DocID>20035539</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15278,6 +15322,17 @@
     <Year>2026</Year>
     <FilingDate>9/21/2026</FilingDate>
     <DocID>9116338</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ronan</Last>
+    <First>Samuel</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>OH15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>9116353</DocID>
   </Member>
   <Member>
     <Prefix>Ms.</Prefix>
