@@ -5513,6 +5513,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Eller</Last>
+    <First>Ron</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MS02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/24/2026</FilingDate>
+    <DocID>9116365</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Ellis</Last>
     <First>Arthur Carr</First>
     <Suffix />
@@ -7798,6 +7809,39 @@
     <Year>2026</Year>
     <FilingDate>9/11/2026</FilingDate>
     <DocID>9116331</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Harshbarger</Last>
+    <First>Diana</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>9116355</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Harshbarger</Last>
+    <First>Diana</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>9116356</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Harshbarger</Last>
+    <First>Diana</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/1/2026</FilingDate>
+    <DocID>9116357</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11882,6 +11926,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>McCracken</Last>
+    <First>Patrick Neal Mr</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>MT02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/23/2026</FilingDate>
+    <DocID>9116363</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>McDonough</Last>
     <First>Melissa A.</First>
     <Suffix />
@@ -14849,6 +14904,17 @@
     <Year>2026</Year>
     <FilingDate>5/11/2026</FilingDate>
     <DocID>10076507</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Reynolds</Last>
+    <First>Lowell Andre</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/22/2026</FilingDate>
+    <DocID>9116364</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18677,6 +18743,17 @@
     <Year>2026</Year>
     <FilingDate>9/2/2026</FilingDate>
     <DocID>9116326</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wied</Last>
+    <First>Tony</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WI08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/2/2026</FilingDate>
+    <DocID>9116361</DocID>
   </Member>
   <Member>
     <Prefix />
