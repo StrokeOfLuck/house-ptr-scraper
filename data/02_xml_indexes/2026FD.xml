@@ -1090,6 +1090,17 @@
     <DocID>10077360</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Bartie</Last>
+    <First>Thurman Bill</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/8/2026</FilingDate>
+    <DocID>10083045</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Bartlett</Last>
     <First>John</First>
@@ -7405,6 +7416,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Groves</Last>
+    <First>Ralph</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>FL11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/7/2026</FilingDate>
+    <DocID>9116373</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Gruters</Last>
     <First>Sydney</First>
     <Suffix />
@@ -7523,6 +7545,17 @@
     <Year>2026</Year>
     <FilingDate>4/19/2026</FilingDate>
     <DocID>10075824</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Hager</Last>
+    <First>Joshua Isaac</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>NC06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/28/2026</FilingDate>
+    <DocID>9116372</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8524,6 +8557,17 @@
     <Year>2026</Year>
     <FilingDate>9/21/2026</FilingDate>
     <DocID>10082904</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Hoelter</Last>
+    <First>Charles</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>CA15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/28/2026</FilingDate>
+    <DocID>9116374</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -10110,6 +10154,17 @@
     <DocID>9116328</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Khanna</Last>
+    <First>Rohit</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/7/2026</FilingDate>
+    <DocID>9116376</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Kidd</Last>
     <First>Robert G</First>
@@ -10812,6 +10867,17 @@
     <Year>2026</Year>
     <FilingDate>5/15/2026</FilingDate>
     <DocID>10078599</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lepage</Last>
+    <First>Paul</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>ME02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/6/2026</FilingDate>
+    <DocID>9116368</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14500,6 +14566,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Pino</Last>
+    <First>Rosemary</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/8/2026</FilingDate>
+    <DocID>10083016</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Pinto</Last>
     <First>Brooke</First>
     <Suffix />
@@ -15398,7 +15475,7 @@
     <StateDst>FL28</StateDst>
     <Year>2026</Year>
     <FilingDate>9/24/2026</FilingDate>
-    <DocID>9116366</DocID>
+    <DocID>9116369</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
