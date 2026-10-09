@@ -544,6 +544,9 @@ def parse_amount_text(amount_raw, continuation_raw=""):
         if (
             not float(value).is_integer()
             or value < 1001
+            # Explicit cents distinguish exact whole-dollar disclosures
+            # from a truncated standard range bound.
+            or re.fullmatch(r"\$[\d,]+\.\d{2}", combined) is not None
         ):
             result["amount_exact"] = value
             result["amount_status"] = "nonstandard_exact"

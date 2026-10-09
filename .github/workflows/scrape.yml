@@ -1,6 +1,12 @@
 name: Scrape House PTRs
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "src/stage3_extract.py"
+      - "src/stage4_clean.py"
+      - "src/publish_latest.py"
   schedule:
     # 9:30am US Eastern year-round; GitHub Actions' timezone-aware
     # schedule syntax handles the EDT/EST shift automatically (no need for
@@ -34,6 +40,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check amount parser regressions
+        run: python -m unittest discover -s tests -v
+
       - name: Run House PTR pipeline
         env:
           # Safety chunk size for incremental runs -- the repo is seeded
@@ -41,7 +50,8 @@ jobs:
           # need to process a handful of genuinely new filings. Override
           # via workflow_dispatch input if a larger catch-up run is needed.
           HOUSE_PTR_MAX_NEW_PDFS: ${{ github.event.inputs.max_new_pdfs || '300' }}
-        run: python run_pipeline.py
+        # Code pushes backfill cached rows; scheduled runs keep the full pipeline.
+        run: python run_pipeline.py --from-stage ${{ github.event_name == 'push' && '4' || '1' }}
 
       - name: Commit and push updated data
         id: commit

@@ -57,6 +57,7 @@ def run() -> None:
         "amount_category",
         "amount_min",
         "amount_max",
+        "amount_exact",
         "filing_status",
         "review_level",
         "needs_review",

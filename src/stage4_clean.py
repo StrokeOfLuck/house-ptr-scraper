@@ -465,6 +465,33 @@ out_df["geometry_quality_score_v8_1"] = out_df[
     "geometry_quality_score"
 ]
 
+# Recover explicit exact amounts in cached V8.1 rows without re-extracting PDFs.
+# Keep all other QA reasons and preserve the original review fields above.
+exact_text = out_df["amount_raw"].fillna("").astype(str).str.strip()
+recover_exact = (
+    out_df["amount_status"].eq("missing_range_bound")
+    & exact_text.str.fullmatch(r"\$[\d,]+\.\d{2}")
+    & out_df["continuation_raw"].fillna("").astype(str).str.strip().eq("")
+    & out_df["amount_min"].isna()
+    & out_df["amount_max"].isna()
+    & out_df["amount_exact"].isna()
+)
+out_df.loc[recover_exact, "amount_exact"] = pd.to_numeric(
+    exact_text[recover_exact].str.replace(r"[$,]", "", regex=True)
+)
+out_df.loc[recover_exact, "amount_status"] = "nonstandard_exact"
+for index in out_df.index[recover_exact]:
+    reasons = split_review_reasons(out_df.at[index, "review_reason"])
+    if "missing_range_bound" in reasons:
+        reasons = [r for r in reasons if r != "missing_range_bound"]
+        if "nonstandard_exact" not in reasons:
+            reasons.append("nonstandard_exact")
+        out_df.at[index, "review_reason"] = "; ".join(reasons)
+        # Replace the old 20-point penalty with the exact-amount 5-point penalty.
+        out_df.at[index, "geometry_quality_score"] = min(
+            100, out_df.at[index, "geometry_quality_score"] + 15
+        )
+
 resolved = out_df.apply(
     resolve_ticker,
     axis=1,
